@@ -17,17 +17,17 @@ This chatbot fetches data from Wikipedia based on user queries and provides a su
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/rajeshboda399/ChatBot.git
-cd ChatBot
+   cd ChatBot
 
 2. **Install Dependencies**:
-composer install
+   composer install
 
-3. **Run the Project on Your Local Server**:
-Move the project files to your WampServer www directory.
+4. **Run the Project on Your Local Server**:
+   Move the project files to your WampServer www directory.
 
-Start WampServer.
+    Start WampServer.
 
-Access the application at http://localhost/WikipediaBot/index.php.
+    Access the application at http://localhost/WikipediaBot/index.php.
 6. **Usage**
 Enter a query to fetch data from Wikipedia.
 
