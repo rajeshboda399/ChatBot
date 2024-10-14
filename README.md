@@ -34,4 +34,4 @@ Enter a query to fetch data from Wikipedia.
 5. **Files**
 index.php: Main file for the chatbot.
 
-vendor/: Directory for dependencies
+ vendor/: Directory for dependencies
