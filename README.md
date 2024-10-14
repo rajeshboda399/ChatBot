@@ -19,20 +19,19 @@ This chatbot fetches data from Wikipedia based on user queries and provides a su
    git clone https://github.com/rajeshboda399/ChatBot.git
 cd ChatBot
 
-Install Dependencies:
+2. **Install Dependencies**:
 composer install
-Run the Project on Your Local Server:
 
-
+3. **Run the Project on Your Local Server**:
 Move the project files to your WampServer www directory.
 
 Start WampServer.
 
 Access the application at http://localhost/WikipediaBot/index.php.
-Usage
+6. **Usage**
 Enter a query to fetch data from Wikipedia.
 
-Files
+5. **Files**
 index.php: Main file for the chatbot.
 
 vendor/: Directory for dependencies
